@@ -8,6 +8,7 @@ Your goal is to predict the speed of a car from a video.
 - data/test.mp4 is a different driving video containing 10798 frames. Video is shot at 20 fps.
 
 Ideas to check and explore:
+-----
 
 The main idea is to train NN on provided speed data and optical flow images generated from video.
 I'm not sure how moving objects (slowing down or speeding up cars) will affect predictions so 
