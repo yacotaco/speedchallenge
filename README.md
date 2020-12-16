@@ -13,7 +13,7 @@ Ideas to check and explore:
 The main idea is to train NN on provided speed data and optical flow images generated from video.
 I'm not sure how moving objects (slowing down or speeding up cars) will affect predictions so 
 I will try to apply mask and extract spacific region of image/video (unobstructed part of road). 
-Maybe combination of abowe method with inverse perspective mapping (IPM) is worth trying.
+Maybe combination of above method with inverse perspective mapping (IPM) is worth trying.
 
 Solution
 -----
