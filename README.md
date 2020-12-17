@@ -17,5 +17,15 @@ Also lighting conditions across all images need brightness equalization (convers
 Check for artifacts and blur.
 Maybe combination of above method with inverse perspective mapping (IPM) is worth trying.
 
+update:
+
+What probably would make predictions more accurate is extracting line stripes and dot marks information
+from image. Road markings are standardized in terms of size and distance which they has to be placed
+from each other. Knowing exact distance traveled and time it is possible to calculate speed. 
+Everytime line features are present in image separate model can make correction for optical flow prediction.
+
+Useful links:
+-----
+
 Solution
 -----
