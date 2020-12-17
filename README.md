@@ -19,7 +19,7 @@ Maybe combination of above method with inverse perspective mapping (IPM) is wort
 
 update:
 
-What probably would make predictions more accurate is extracting line stripes and dot marks information
+What probably would make predictions more accurate is extracting dashed or dotted line information
 from image. Road markings are standardized in terms of size and distance which they have to be placed
 from each other. Knowing exact distance traveled and time it is possible to calculate speed. 
 Everytime line features are present in image separate model can make correction for optical flow prediction.
