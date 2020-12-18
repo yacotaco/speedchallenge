@@ -1,5 +1,5 @@
-Welcome to the comma.ai Programming Challenge!
-======
+Task and data:
+-----
 
 Your goal is to predict the speed of a car from a video.
 
